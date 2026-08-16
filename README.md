@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Cybersecurity Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff66,100:00bfff&height=220&section=header&text=WELCOME%20TO%20MY%20WORLD&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20%7C%20Ethical%20Hacking%20%7C%20Networking&descAlignY=65&descScale=18" width="100%" />
+<!-- Option 4: Futuristic HUD Banner -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:050a10,50:0a1a30,100:00e6fe&height=250&section=header&text=A%20A%20K%20O%20%7C%20OPERATOR&fontSize=45&fontColor=00ffff&fontAlignY=35&desc=System%20Status%3A%20PROTECTED%20%7C%20Next-Gen%20Defenses&descAlignY=60&descScale=18&stroke=00ffff&strokeWidth=0.5" width="100%" />
 
 </div>
