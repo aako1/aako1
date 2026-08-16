@@ -1,3 +1,4 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:00ff66,100:003311&height=240&section=header&text=WELCOME%20TO%20MY%20WORLD&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=%5B%2B%5D%20Securing%20Networks%20%26%20Digital%20Infrastructures&descAlignY=63&descScale=18" width="100%" />
+<!-- Option 4: Futuristic HUD Banner -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:050a10,50:0a1a30,100:00e6fe&height=250&section=header&text=A%20A%20K%20O%20%7C%20OPERATOR&fontSize=45&fontColor=00ffff&fontAlignY=35&desc=System%20Status%3A%20PROTECTED%20%7C%20Next-Gen%20Defenses&descAlignY=60&descScale=18&stroke=00ffff&strokeWidth=0.5" width="100%" />
