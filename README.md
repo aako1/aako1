@@ -1,4 +1,1 @@
-<div align="center">
-
-<!-- Banner (Text only: ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ᴡᴏʀʟᴅ) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:00ff66,70:00bfff,100:0d1117&height=180&section=header&text=WELCOME%20TO%20MY%20WORLD&fontSize=28&fontColor=ffffff&fontAlignY=50&animation=fadeIn&stroke=00ff66&strokeWidth=1" width="100%" />
+https://capsule-render.vercel.app/api?type=waving&color=gradient(0deg, #0d1117 20%, #0077cc 50%, #ff6600 85%, #0d1117 100%)&height=180&section=header&text=EXPLORE%20THE%20DIGITAL%20FRONTIER&fontSize=32&fontColor=ffffff&fontAlignY=45&animation=lightning&stroke=0077cc&strokeWidth=2
