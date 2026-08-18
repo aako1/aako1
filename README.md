@@ -1,1 +1,4 @@
-![WELCOME TO MY WORLD](https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:001f3f,55:00e5ff,75:7c3aed,100:000000&height=250&section=header&text=WELCOME%20TO%20MY%20WORLD&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=twinkling&stroke=00e5ff&strokeWidth=3&desc=CYBERSECURITY%20%7C%20TECHNOLOGY%20%7C%20DIGITAL%20DEFENSE&descSize=15&descAlignY=65)
+<div align="center">
+
+<!-- Banner (Text only: ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ᴡᴏʀʟᴅ) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:00ff66,70:00bfff,100:0d1117&height=180&section=header&text=WELCOME%20TO%20MY%20WORLD&fontSize=28&fontColor=ffffff&fontAlignY=50&animation=fadeIn&stroke=00ff66&strokeWidth=1" width="100%" />
